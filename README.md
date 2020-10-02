@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 ### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griffinGC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 관심분야
+### Interest
 - Vue
 - Java
 - MSA
+- DevOps
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:griffindouble@gmail.com)](mailto:griffindouble@gmail.com)
 	
