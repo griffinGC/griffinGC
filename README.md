@@ -22,12 +22,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griffinGC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Interest
-- Vue
 - Java
 - MSA
-- DevOps
 - Docker
 - Python
-- Javascript
 - Swift
 - iOS
